@@ -1,4 +1,4 @@
-# Car Recognition
+# Car Recognition / the worst repo
 
 
 This repository is to do car recognition by fine-tuning ResNet-152 with Cars Dataset from Stanford.
